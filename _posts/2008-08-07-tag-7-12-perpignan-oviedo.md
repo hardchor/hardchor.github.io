@@ -8,9 +8,7 @@ permalink: /2008/08/07/tag-7-12-perpignan-oviedo/
 categories:
   - Development
 ---
-<p class="wp-flattr-button">
-  <a class="FlattrButton" style="display:none;" href="http://burgiblog.com/2008/08/07/tag-7-12-perpignan-oviedo/" title=" Tag 7 &#8211; 12: Perpignan &#8211; Oviedo" rev="flattr;uid:BurkhardR;language:en_GB;category:audio;tags:blog;button:compact;">Mittlerweile bin ich schon gute 1000km vom letzten Eintrag entfernt und habe demzufolge einiges nachzuholen. &nbsp; Es geht also am naechsten Tag, entgegen der urspruenglichen Planung, nicht direkt Richtung Spanien...</a>
-</p>
+
 
 Mittlerweile bin ich schon gute 1000km vom letzten Eintrag entfernt und habe demzufolge einiges nachzuholen.
 
@@ -36,54 +34,3 @@ Diese Gastfreundlichkeit ist einfach ueberwaeltigend. Couchsurfing hat uns mal w
 Hier unsere bisherige Strecke: 2600km!  
 <a href="http://maps.google.com/maps?f=d&saddr=Auerbach,+Sajonia,+Alemania&daddr=L1079+%4048.487190,+10.071650+to:stuttgart+to:freiburg+im+breisgau+to:bienne+to:montelimar+to:A75+%4043.761970,+3.331650+to:perpignan+to:toulouse+to:bilbao+to:santander+to:oviedo+to:Ribadeo,+Spain+to:AC-862%2FCarretera+de+Ortigueira+%4043.639190,+-7.927550+to:Santiago+de+Compostela,+Spain&hl=es&geocode=9027515752428663599,48.487190,10.071650%3B9438572219921661557,43.761970,3.331650%3B1482405362893063169,43.639190,-7.927550&mra=ls&via=1,6,13&sll=45.931675,1.928275&sspn=14.003386,28.300781&ie=UTF8&ll=46.649436,1.933594&spn=13.820106,28.300781&z=5" target="_blank">Die Route</a>
 
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-twitter">
-          <a rel="nofollow" data-shared="sharing-twitter-116" class="share-twitter sd-button share-icon" href="http://burgiblog.com/2008/08/07/tag-7-12-perpignan-oviedo/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-google-plus-1">
-          <a rel="nofollow" data-shared="sharing-google-116" class="share-google-plus-1 sd-button share-icon" href="http://burgiblog.com/2008/08/07/tag-7-12-perpignan-oviedo/?share=google-plus-1" target="_blank" title="Click to share on Google+"><span>Google</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow" data-shared="sharing-facebook-116" class="share-facebook sd-button share-icon" href="http://burgiblog.com/2008/08/07/tag-7-12-perpignan-oviedo/?share=facebook" target="_blank" title="Share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li>
-          <a href="#" class="sharing-anchor sd-button share-more"><span>More</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-      
-      <div class="sharing-hidden">
-        <div class="inner" style="display: none;">
-          <ul>
-            <li class="share-print">
-              <a rel="nofollow" data-shared="" class="share-print sd-button share-icon" href="http://burgiblog.com/2008/08/07/tag-7-12-perpignan-oviedo/" target="_blank" title="Click to print"><span>Print</span></a>
-            </li>
-            <li class="share-linkedin">
-              <a rel="nofollow" data-shared="sharing-linkedin-116" class="share-linkedin sd-button share-icon" href="http://burgiblog.com/2008/08/07/tag-7-12-perpignan-oviedo/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-            </li>
-            <li class="share-end">
-            </li>
-            <li class="share-reddit">
-              <a rel="nofollow" data-shared="" class="share-reddit sd-button share-icon" href="http://burgiblog.com/2008/08/07/tag-7-12-perpignan-oviedo/?share=reddit" target="_blank" title="Click to share on Reddit"><span>Reddit</span></a>
-            </li>
-            <li class="share-email">
-              <a rel="nofollow" data-shared="" class="share-email sd-button share-icon" href="http://burgiblog.com/2008/08/07/tag-7-12-perpignan-oviedo/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-            </li>
-            <li class="share-end">
-            </li>
-            <li class="share-end">
-            </li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>

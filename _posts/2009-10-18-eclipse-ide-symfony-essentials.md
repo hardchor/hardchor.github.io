@@ -21,13 +21,7 @@ tags:
   - YAML
   - YEdit
 ---
-<p class="wp-flattr-button">
-  <a class="FlattrButton" style="display:none;" href="http://burgiblog.com/2009/10/18/eclipse-ide-symfony-essentials/" title=" Eclipse IDE: Symfony essentials" rev="flattr;uid:BurkhardR;language:en_GB;category:audio;tags:Aptana,Eclipse,Essentials,how to,howto,PDT,PHP,symfony,tutorial,YAML,YEdit,blog;button:compact;">Every programmer knows it, every programmer loves it: the Eclipse IDE. It is probably the most extensive free open-source development environment out there (Netbeans put aside). In this tutorial I&#8217;d...</a>
-</p>
 
-<p style="text-align: center;">
-  <a href="http://burgiblog.com/wp-content/uploads/2009/10/eclipse_sf.png"><img class="size-full wp-image-196 aligncenter" title="Eclipse and Symfony" src="http://burgiblog.com/wp-content/uploads/2009/10/eclipse_sf.png" alt="Eclipse and Symfony - A beautiful couple" width="482" height="106" /></a>
-</p>
 
 Every programmer knows it, every programmer loves it: the Eclipse IDE. It is probably the most extensive free open-source development environment out there (Netbeans put aside). In this tutorial I&#8217;d like to show you how you can get it ready for symfony, the (in my opinion) best PHP framework there is at the moment.
 
@@ -51,54 +45,3 @@ If you&#8217;re running you own server on localhost (a future tutorial will cove
 
 Have fun developing symfony applications even quicker and easier!
 
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-twitter">
-          <a rel="nofollow" data-shared="sharing-twitter-192" class="share-twitter sd-button share-icon" href="http://burgiblog.com/2009/10/18/eclipse-ide-symfony-essentials/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-google-plus-1">
-          <a rel="nofollow" data-shared="sharing-google-192" class="share-google-plus-1 sd-button share-icon" href="http://burgiblog.com/2009/10/18/eclipse-ide-symfony-essentials/?share=google-plus-1" target="_blank" title="Click to share on Google+"><span>Google</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow" data-shared="sharing-facebook-192" class="share-facebook sd-button share-icon" href="http://burgiblog.com/2009/10/18/eclipse-ide-symfony-essentials/?share=facebook" target="_blank" title="Share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li>
-          <a href="#" class="sharing-anchor sd-button share-more"><span>More</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-      
-      <div class="sharing-hidden">
-        <div class="inner" style="display: none;">
-          <ul>
-            <li class="share-print">
-              <a rel="nofollow" data-shared="" class="share-print sd-button share-icon" href="http://burgiblog.com/2009/10/18/eclipse-ide-symfony-essentials/" target="_blank" title="Click to print"><span>Print</span></a>
-            </li>
-            <li class="share-linkedin">
-              <a rel="nofollow" data-shared="sharing-linkedin-192" class="share-linkedin sd-button share-icon" href="http://burgiblog.com/2009/10/18/eclipse-ide-symfony-essentials/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-            </li>
-            <li class="share-end">
-            </li>
-            <li class="share-reddit">
-              <a rel="nofollow" data-shared="" class="share-reddit sd-button share-icon" href="http://burgiblog.com/2009/10/18/eclipse-ide-symfony-essentials/?share=reddit" target="_blank" title="Click to share on Reddit"><span>Reddit</span></a>
-            </li>
-            <li class="share-email">
-              <a rel="nofollow" data-shared="" class="share-email sd-button share-icon" href="http://burgiblog.com/2009/10/18/eclipse-ide-symfony-essentials/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-            </li>
-            <li class="share-end">
-            </li>
-            <li class="share-end">
-            </li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>

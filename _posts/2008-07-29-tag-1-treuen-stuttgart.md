@@ -8,9 +8,7 @@ permalink: /2008/07/29/tag-1-treuen-stuttgart/
 categories:
   - Development
 ---
-<p class="wp-flattr-button">
-  <a class="FlattrButton" style="display:none;" href="http://burgiblog.com/2008/07/29/tag-1-treuen-stuttgart/" title=" Tag 1: Treuen &#8211; Stuttgart" rev="flattr;uid:BurkhardR;language:en_GB;category:audio;tags:blog;button:compact;">Nun ist es endlich so weit: Ich bin als waschechter Tramper und Couchsurfer auf dem Weg nach Portugal! Meine erste Etappe f?e mich nach nichtmal 5 Minuten Wartezeit von der...</a>
-</p>
+
 
 Nun ist es endlich so weit: Ich bin als waschechter Tramper und Couchsurfer auf dem Weg nach Portugal!
 
@@ -24,54 +22,3 @@ Die vierte und letzte Etappe bestand dann also aus einer vergleichsweise ruhigen
 
 Abends bin ich dann ziemlich gl?ich in mein Bett, respektive Couch, gefallen. Heute ist erstmal chillen angesagt, bissl nach Stuttgart in die Stadt gehen und alles f?ie Weiterreise vorbereiten. Morgen gehts dann weiter nach Freiburg zu Rachel!
 
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-twitter">
-          <a rel="nofollow" data-shared="sharing-twitter-121" class="share-twitter sd-button share-icon" href="http://burgiblog.com/2008/07/29/tag-1-treuen-stuttgart/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-google-plus-1">
-          <a rel="nofollow" data-shared="sharing-google-121" class="share-google-plus-1 sd-button share-icon" href="http://burgiblog.com/2008/07/29/tag-1-treuen-stuttgart/?share=google-plus-1" target="_blank" title="Click to share on Google+"><span>Google</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow" data-shared="sharing-facebook-121" class="share-facebook sd-button share-icon" href="http://burgiblog.com/2008/07/29/tag-1-treuen-stuttgart/?share=facebook" target="_blank" title="Share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li>
-          <a href="#" class="sharing-anchor sd-button share-more"><span>More</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-      
-      <div class="sharing-hidden">
-        <div class="inner" style="display: none;">
-          <ul>
-            <li class="share-print">
-              <a rel="nofollow" data-shared="" class="share-print sd-button share-icon" href="http://burgiblog.com/2008/07/29/tag-1-treuen-stuttgart/" target="_blank" title="Click to print"><span>Print</span></a>
-            </li>
-            <li class="share-linkedin">
-              <a rel="nofollow" data-shared="sharing-linkedin-121" class="share-linkedin sd-button share-icon" href="http://burgiblog.com/2008/07/29/tag-1-treuen-stuttgart/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-            </li>
-            <li class="share-end">
-            </li>
-            <li class="share-reddit">
-              <a rel="nofollow" data-shared="" class="share-reddit sd-button share-icon" href="http://burgiblog.com/2008/07/29/tag-1-treuen-stuttgart/?share=reddit" target="_blank" title="Click to share on Reddit"><span>Reddit</span></a>
-            </li>
-            <li class="share-email">
-              <a rel="nofollow" data-shared="" class="share-email sd-button share-icon" href="http://burgiblog.com/2008/07/29/tag-1-treuen-stuttgart/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-            </li>
-            <li class="share-end">
-            </li>
-            <li class="share-end">
-            </li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>

@@ -18,9 +18,7 @@ tags:
   - symfony
   - symfony 1.4
 ---
-<p class="wp-flattr-button">
-  <a class="FlattrButton" style="display:none;" href="http://burgiblog.com/2011/02/12/symfony-cross-application-cache-clearing-on-distributed-servers/" title=" Symfony: Cross-application cache clearing on distributed servers" rev="flattr;uid:BurkhardR;language:en_GB;category:audio;tags:cache,cluster,multiple servers,PHP,plugin,symfony,symfony 1.4,blog;button:compact;">While the title might sound a tad complicated, the problem is pretty straight forward: Your production environment consists of a multi-server set-up (e.g. a cluster, but works on a single...</a>
-</p>
+
 
 <img class="alignright size-full wp-image-265" style="padding: 0 0 10px 10px;" title="cluster_icon" src="http://burgiblog.com/wp-content/uploads/2011/02/cluster_icon.jpg" alt="" width="128" height="128" />  
 While the title might sound a tad complicated, the problem is pretty straight forward:
@@ -49,54 +47,3 @@ or check out the latest version from
 
 I&#8217;ve put detailed installation and usage instruction into the README file (also available <a href="http://www.symfony-project.org/plugins/mbpDistributedCachePlugin/1_0_0?tab=plugin_readme" target="_blank">here</a>). However, if you should have any questions or suggestions, leave me a comment and I&#8217;ll get back to you.
 
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-twitter">
-          <a rel="nofollow" data-shared="sharing-twitter-252" class="share-twitter sd-button share-icon" href="http://burgiblog.com/2011/02/12/symfony-cross-application-cache-clearing-on-distributed-servers/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-google-plus-1">
-          <a rel="nofollow" data-shared="sharing-google-252" class="share-google-plus-1 sd-button share-icon" href="http://burgiblog.com/2011/02/12/symfony-cross-application-cache-clearing-on-distributed-servers/?share=google-plus-1" target="_blank" title="Click to share on Google+"><span>Google</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow" data-shared="sharing-facebook-252" class="share-facebook sd-button share-icon" href="http://burgiblog.com/2011/02/12/symfony-cross-application-cache-clearing-on-distributed-servers/?share=facebook" target="_blank" title="Share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li>
-          <a href="#" class="sharing-anchor sd-button share-more"><span>More</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-      
-      <div class="sharing-hidden">
-        <div class="inner" style="display: none;">
-          <ul>
-            <li class="share-print">
-              <a rel="nofollow" data-shared="" class="share-print sd-button share-icon" href="http://burgiblog.com/2011/02/12/symfony-cross-application-cache-clearing-on-distributed-servers/" target="_blank" title="Click to print"><span>Print</span></a>
-            </li>
-            <li class="share-linkedin">
-              <a rel="nofollow" data-shared="sharing-linkedin-252" class="share-linkedin sd-button share-icon" href="http://burgiblog.com/2011/02/12/symfony-cross-application-cache-clearing-on-distributed-servers/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-            </li>
-            <li class="share-end">
-            </li>
-            <li class="share-reddit">
-              <a rel="nofollow" data-shared="" class="share-reddit sd-button share-icon" href="http://burgiblog.com/2011/02/12/symfony-cross-application-cache-clearing-on-distributed-servers/?share=reddit" target="_blank" title="Click to share on Reddit"><span>Reddit</span></a>
-            </li>
-            <li class="share-email">
-              <a rel="nofollow" data-shared="" class="share-email sd-button share-icon" href="http://burgiblog.com/2011/02/12/symfony-cross-application-cache-clearing-on-distributed-servers/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-            </li>
-            <li class="share-end">
-            </li>
-            <li class="share-end">
-            </li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>

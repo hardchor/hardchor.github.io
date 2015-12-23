@@ -11,3 +11,9 @@ github_username:  hardchor
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+gems:
+- jekyll-mentions
+- jemoji
+- jekyll-sitemap
+- jekyll-feed

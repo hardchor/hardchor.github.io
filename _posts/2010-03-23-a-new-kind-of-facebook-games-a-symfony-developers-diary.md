@@ -9,9 +9,7 @@ categories:
   - Development
   - symfony
 ---
-<p class="wp-flattr-button">
-  <a class="FlattrButton" style="display:none;" href="http://burgiblog.com/2010/03/23/a-new-kind-of-facebook-games-a-symfony-developers-diary/" title=" A new kind of Facebook games &#8211; A symfony developer&#8217;s diary" rev="flattr;uid:BurkhardR;language:en_GB;category:audio;tags:blog;button:compact;">Are you growing tired of Facebook games that have absolutely no depth and simply consist of nice graphics without any strategic gameplay like Farmville, Mafia Wars etc.? Well, so was...</a>
-</p>
+
 
 Are you growing tired of Facebook games that have absolutely no depth and simply consist of nice graphics without any strategic gameplay like Farmville, Mafia Wars etc.? Well, so was I to say the least. I believe I can do better than this and so I teamed up with <a href="http://www.facebook.com/profile.php?id=683690241" target="_blank">Daniel West</a> (graphics, storyline) and <a href="http://www.facebook.com/profile.php?id=596401440" target="_blank">Francesca Sciarmella</a> (3D graphics) in February to build a full-scale strategic game.<!--more-->
 
@@ -50,56 +48,6 @@ As of now, we have a working prototype and beta tests are coming up soon. Also, 
 
 Stay tuned for updates and more details.
 
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-twitter">
-          <a rel="nofollow" data-shared="sharing-twitter-222" class="share-twitter sd-button share-icon" href="http://burgiblog.com/2010/03/23/a-new-kind-of-facebook-games-a-symfony-developers-diary/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-google-plus-1">
-          <a rel="nofollow" data-shared="sharing-google-222" class="share-google-plus-1 sd-button share-icon" href="http://burgiblog.com/2010/03/23/a-new-kind-of-facebook-games-a-symfony-developers-diary/?share=google-plus-1" target="_blank" title="Click to share on Google+"><span>Google</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow" data-shared="sharing-facebook-222" class="share-facebook sd-button share-icon" href="http://burgiblog.com/2010/03/23/a-new-kind-of-facebook-games-a-symfony-developers-diary/?share=facebook" target="_blank" title="Share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li>
-          <a href="#" class="sharing-anchor sd-button share-more"><span>More</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-      
-      <div class="sharing-hidden">
-        <div class="inner" style="display: none;">
-          <ul>
-            <li class="share-print">
-              <a rel="nofollow" data-shared="" class="share-print sd-button share-icon" href="http://burgiblog.com/2010/03/23/a-new-kind-of-facebook-games-a-symfony-developers-diary/" target="_blank" title="Click to print"><span>Print</span></a>
-            </li>
-            <li class="share-linkedin">
-              <a rel="nofollow" data-shared="sharing-linkedin-222" class="share-linkedin sd-button share-icon" href="http://burgiblog.com/2010/03/23/a-new-kind-of-facebook-games-a-symfony-developers-diary/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-            </li>
-            <li class="share-end">
-            </li>
-            <li class="share-reddit">
-              <a rel="nofollow" data-shared="" class="share-reddit sd-button share-icon" href="http://burgiblog.com/2010/03/23/a-new-kind-of-facebook-games-a-symfony-developers-diary/?share=reddit" target="_blank" title="Click to share on Reddit"><span>Reddit</span></a>
-            </li>
-            <li class="share-email">
-              <a rel="nofollow" data-shared="" class="share-email sd-button share-icon" href="http://burgiblog.com/2010/03/23/a-new-kind-of-facebook-games-a-symfony-developers-diary/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-            </li>
-            <li class="share-end">
-            </li>
-            <li class="share-end">
-            </li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
+
 
  [1]: http://burgiblog.com/wp-content/uploads/2010/03/race_sheet-desktop.jpg

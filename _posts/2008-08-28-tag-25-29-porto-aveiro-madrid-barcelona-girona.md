@@ -8,9 +8,7 @@ permalink: /2008/08/28/tag-25-29-porto-aveiro-madrid-barcelona-girona/
 categories:
   - Development
 ---
-<p class="wp-flattr-button">
-  <a class="FlattrButton" style="display:none;" href="http://burgiblog.com/2008/08/28/tag-25-29-porto-aveiro-madrid-barcelona-girona/" title=" Tag 25 &#8211; 29: Porto &#8211; Aveiro &#8211; Madrid &#8211; Barcelona &#8211; Girona" rev="flattr;uid:BurkhardR;language:en_GB;category:audio;tags:blog;button:compact;">Es ist 9 Uhr morgens. Ich schrecke auf und schaue auf die Uhr, denn eigentlich wollte ich schon viel frueher los. Nachdem ich die letzte Nacht mit ein paar Deutschen,...</a>
-</p>
+
 
 Es ist 9 Uhr morgens. Ich schrecke auf und schaue auf die Uhr, denn eigentlich wollte ich schon viel frueher los. Nachdem ich die letzte Nacht mit ein paar Deutschen, die die Deutsche Schule in Porto besucht haben und die ich mehr oder weniger zufaellig ein paar Tage zuvor in einer Bar getroffen habe und die mich spontan eingeladen haben, verbracht habe, wollte ich ja eigentlich garnicht schlafen, sondern direkt frueh an der Strasse stehen (ganz nach dem Motto &#8220;Der fruehe Vogel faengt den Wurm bzw. die Mitfahrgelegenheit&#8221;&nbsp;<img />). Aber nachdem ich die Party erst frueh um 5 verlasse, eine Stunde heimlaufen muss und mitten beim Packen auf der Couch einschlafe, bin ich letztendlich erst gegen 11 auf Tour. Und so kommt es, wie es kommen muss, wohl eine kleine Bestrafung fuer meine Nachlaessigkeit: Ich warte 6 Stunden in Porto.   
 Nach einem Standortwechsel 4 Stunden spaeter und endlosem ungeduldigen Hin- und Herlaufen, Freundliches-Gesicht-Machen und Strassenrandanimation (was sicherlich zur Unterhaltung der Vorbeifahrenden, offensichtlich jedoch weniger zu meinen Chancen, mitgenommen zu werden, beigetragen hat), nimmt mich endlich jemand mit. Es sollte nicht anders kommen, und so schaff ich es an dem Tag gerade mal ins 70 Kilometer suedlich gelegene Aveiro. Als ich dort an einem Kreisverkehr&nbsp; noch einmal eine Stunde warte und es langsam dunkel wird, frage ich einen Studenten auf der Strasse, wo man am Besten wild zelten koennte. Nach einem kurzen Gespraech, bei dem ich erfahr, dass er ein spanischer Erasmus-Student ist und selbst noch nicht allzu lang in Portugal wohnt, laedt er mich spontan ein, in seiner WG zu uebernachten. Nach einer langen Partynacht mit seinen spanischen Mitbewohnern ist frueh um 7 auch schon wieder Schluss mit Schlafen.
@@ -30,54 +28,3 @@ Heute ist es genau einen Monat her, dass ich in Treuen an der Autobahnauffahrt s
 
 <img />
 
-<div class="sharedaddy sd-sharing-enabled">
-  <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
-    <h3 class="sd-title">
-      Share this:
-    </h3>
-    
-    <div class="sd-content">
-      <ul>
-        <li class="share-twitter">
-          <a rel="nofollow" data-shared="sharing-twitter-112" class="share-twitter sd-button share-icon" href="http://burgiblog.com/2008/08/28/tag-25-29-porto-aveiro-madrid-barcelona-girona/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a>
-        </li>
-        <li class="share-google-plus-1">
-          <a rel="nofollow" data-shared="sharing-google-112" class="share-google-plus-1 sd-button share-icon" href="http://burgiblog.com/2008/08/28/tag-25-29-porto-aveiro-madrid-barcelona-girona/?share=google-plus-1" target="_blank" title="Click to share on Google+"><span>Google</span></a>
-        </li>
-        <li class="share-facebook">
-          <a rel="nofollow" data-shared="sharing-facebook-112" class="share-facebook sd-button share-icon" href="http://burgiblog.com/2008/08/28/tag-25-29-porto-aveiro-madrid-barcelona-girona/?share=facebook" target="_blank" title="Share on Facebook"><span>Facebook</span></a>
-        </li>
-        <li>
-          <a href="#" class="sharing-anchor sd-button share-more"><span>More</span></a>
-        </li>
-        <li class="share-end">
-        </li>
-      </ul>
-      
-      <div class="sharing-hidden">
-        <div class="inner" style="display: none;">
-          <ul>
-            <li class="share-print">
-              <a rel="nofollow" data-shared="" class="share-print sd-button share-icon" href="http://burgiblog.com/2008/08/28/tag-25-29-porto-aveiro-madrid-barcelona-girona/" target="_blank" title="Click to print"><span>Print</span></a>
-            </li>
-            <li class="share-linkedin">
-              <a rel="nofollow" data-shared="sharing-linkedin-112" class="share-linkedin sd-button share-icon" href="http://burgiblog.com/2008/08/28/tag-25-29-porto-aveiro-madrid-barcelona-girona/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a>
-            </li>
-            <li class="share-end">
-            </li>
-            <li class="share-reddit">
-              <a rel="nofollow" data-shared="" class="share-reddit sd-button share-icon" href="http://burgiblog.com/2008/08/28/tag-25-29-porto-aveiro-madrid-barcelona-girona/?share=reddit" target="_blank" title="Click to share on Reddit"><span>Reddit</span></a>
-            </li>
-            <li class="share-email">
-              <a rel="nofollow" data-shared="" class="share-email sd-button share-icon" href="http://burgiblog.com/2008/08/28/tag-25-29-porto-aveiro-madrid-barcelona-girona/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a>
-            </li>
-            <li class="share-end">
-            </li>
-            <li class="share-end">
-            </li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
